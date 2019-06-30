@@ -1,0 +1,18 @@
+Fitter Status : Successful - Sun Jun 30 16:49:22 2019
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : ADDR_TREE_2
+Top-level Entity Name : ADDR_TREE_2
+Family : MAX 10
+Device : 10M08SAE144C8GES
+Timing Models : Preliminary
+Total logic elements : 2,156 / 8,064 ( 27 % )
+    Total combinational functions : 1,129 / 8,064 ( 14 % )
+    Dedicated logic registers : 2,146 / 8,064 ( 27 % )
+Total registers : 2146
+Total pins : 35 / 101 ( 35 % )
+Total virtual pins : 0
+Total memory bits : 0 / 387,072 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 48 ( 0 % )
+Total PLLs : 0 / 1 ( 0 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 1 ( 0 % )
